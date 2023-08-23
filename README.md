@@ -23,7 +23,9 @@ Player statistics data for the 2021 EPL season were collected and organized into
 
 2. **Logistic Regression:**
    Logistic regression was used to predict whether a player is a "High Performer" or "Low Performer" based on their statistics. The 'High Performer' column was created as the target variable.
-   High performer was created by analyzing the win ratio a player has over their career. The threshold ratio for this was 0.4, as in the EPL a "draw" can be a result. 
+   High performer was created by analyzing the win ratio a player has over their career. The threshold ratio for this was 0.4, as in the EPL a "draw" can be a result.
+3. **Recommendation System**
+   Recommendation system was used to recommend top 10 player signings for each position using the High Performer target. Visuals of the top 10 players for each position can be found in the presentation slides as well as the notebook.
 
 ## Getting Started
 
